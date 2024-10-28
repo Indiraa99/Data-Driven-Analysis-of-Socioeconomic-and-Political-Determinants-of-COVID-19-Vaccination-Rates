@@ -7,9 +7,11 @@ Exploratory Data Analysis (EDA): Performed data cleaning, visualization, and cor
 Regression Analysis: Applied statistical models, including Ordinary Least Squares (OLS) regression, to evaluate the significance of individual factors.
 Machine Learning Models: Implemented models such as Linear Regression and Random Forest to predict vaccination rates and assess feature importance.
 Statistical Testing: Analyzed t-values and p-values to determine the significance of different predictors.
+
 Highlights:
 Feature Importance: Used Random Forest to rank factors influencing vaccination rates, with political leanings, life expectancy, and income among the top contributors.
 Insights: Identified key relationships, such as the impact of political and socioeconomic factors on vaccination hesitancy and uptake.
+
 Technologies Used:
 Python, Pandas, Seaborn, Matplotlib for data handling and visualization.
 Scikit-learn and Statsmodels for regression and machine learning models.
